@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>HortLink | Demonstração</title>
+  <meta name="description" content="Demonstração da HortLink, a rede profissional do setor hortifruti.">
+  <link rel="icon" href="img/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Source+Sans+3:wght@400;600;700&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- O cabeçalho e o conteúdo são desenhados pelo js/app.js -->
+  <header class="topo-app" id="topo"></header>
+
+  <main class="principal container" id="conteudo"></main>
+
+  <footer class="rodape-app container">
+    <p>HortLink · Projeto acadêmico de demonstração. Os dados são fictícios e ficam salvos apenas neste navegador.</p>
+    <p><button type="button" class="btn-texto" data-acao="pedirRestauracao">Restaurar dados de demonstração</button></p>
+  </footer>
+
+  <!-- Janela usada para confirmações e formulários curtos -->
+  <div class="modal" id="modal" hidden></div>
+
+  <!-- Avisos rápidos que aparecem no rodapé da tela -->
+  <div class="avisos" id="avisos" aria-live="polite"></div>
+
+  <script src="js/dados.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

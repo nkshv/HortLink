@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="HortLink">
+  <path d="M7 31C7 16 18 7 37 6c1 19-8 29-23 29-3 0-5-1-7-4z" fill="#4EA72E"/>
+  <path d="M9 41c4-12 12-21 23-29" fill="none" stroke="#196B24" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="35" cy="35" r="8" fill="#ffffff" stroke="#E97132" stroke-width="4"/>
+</svg>

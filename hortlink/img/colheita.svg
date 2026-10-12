@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Caixa de madeira cheia de tomates recém-colhidos">
+  <rect width="600" height="600" fill="#EAF5E4"/>
+  <circle cx="300" cy="300" r="250" fill="#DDEFD3"/>
+  <g fill="#4EA72E">
+    <path d="M70 330 Q60 200 170 190 Q200 280 150 350Z"/>
+    <path d="M530 330 Q545 205 432 190 Q398 280 452 350Z"/>
+  </g>
+  <g fill="#196B24">
+    <path d="M120 340 Q130 240 215 222 Q235 300 190 352Z"/>
+    <path d="M482 340 Q472 240 386 222 Q366 300 412 352Z"/>
+  </g>
+  <g fill="#D9412B">
+    <circle cx="190" cy="300" r="46"/><circle cx="282" cy="282" r="50"/><circle cx="378" cy="290" r="48"/><circle cx="452" cy="312" r="40"/>
+    <circle cx="236" cy="246" r="42"/><circle cx="334" cy="236" r="44"/><circle cx="414" cy="254" r="36"/>
+  </g>
+  <g fill="#F0705A">
+    <circle cx="176" cy="284" r="12"/><circle cx="266" cy="264" r="13"/><circle cx="362" cy="272" r="12"/><circle cx="224" cy="230" r="10"/><circle cx="320" cy="218" r="11"/><circle cx="404" cy="242" r="9"/><circle cx="442" cy="298" r="9"/>
+  </g>
+  <g fill="#196B24">
+    <path d="M236 204 l8 12 13-6 -6 13 12 8 -14 3 1 14 -12-8 -10 10 -1-14 -14-3 12-8z"/>
+    <path d="M334 192 l8 12 13-6 -6 13 12 8 -14 3 1 14 -12-8 -10 10 -1-14 -14-3 12-8z"/>
+    <path d="M414 218 l7 10 11-5 -5 11 10 7 -12 3 1 12 -10-7 -9 9 -1-12 -12-3 10-7z"/>
+  </g>
+  <g>
+    <path d="M110 330 H490 L462 500 H138Z" fill="#B98552"/>
+    <path d="M110 330 H490 L484 366 H116Z" fill="#CFA06D"/>
+    <path d="M119 384 H481 L475 420 H125Z" fill="#CFA06D"/>
+    <path d="M128 438 H472 L466 474 H134Z" fill="#CFA06D"/>
+    <rect x="150" y="326" width="22" height="178" rx="4" fill="#8F6238"/>
+    <rect x="428" y="326" width="22" height="178" rx="4" fill="#8F6238"/>
+    <rect x="289" y="326" width="22" height="178" rx="4" fill="#8F6238"/>
+  </g>
+  <ellipse cx="300" cy="520" rx="200" ry="16" fill="#196B24" opacity="0.18"/>
+</svg>
